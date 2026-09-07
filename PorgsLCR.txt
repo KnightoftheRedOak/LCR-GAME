@@ -1,0 +1,15 @@
+I'm Porg, your hospitality droid.
+I'll be helping you with all your needs during your stay. 
+While you're here, be sure to try our new Black Hole Spritzer 
+I guarantee it will crush your world!
+
+How about we start the night with an old Earth dice game, LCR? You'll roll the dice
+don't worry, our dice are inspected by the Intergalactic Gambling Commission.
+If it lands on L, pass one chip to the player on your left. If it lands on R,
+pass one chip to the player on your right. If it lands on C, toss one chip into
+the center. If it lands on *, you're safe.
+
+Each player starts with three chips. You'll roll based on how many chips you have,
+with a maximum of three rolls per turn. The last player with chips wins the center pot.
+
+So... should I set up the game board for you?
